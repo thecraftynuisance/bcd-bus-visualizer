@@ -1,0 +1,14 @@
+---
+This is a text file (plain ASCII file), where information can be added to but
+not removed from, noting that the design has been changed, and providing a date
+and information about the changes made by Licensee (see section 3.3.b of
+CERN-OHL-P v2).
+
+A detailed list of changes would be helpful, as would a diff, but a description
+of the changes (e.g. “AC/DC power converter circuit removed as AC input no
+longer necessary”) is fine.
+---
+
+2026-04-10:
+- Initial design (which is not a change made by Licensee, but it is included
+  here for completeness).
